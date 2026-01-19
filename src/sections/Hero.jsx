@@ -8,7 +8,7 @@ import { calculateSizes } from "../constants";
 import Target from "../components/Target";
 import ReactLogo from "../components/ReactLogo";
 import Cube from "../components/Cube";
-import Rings from "../components/Rings";
+// import Rings from "../components/Rings";
 import HeroCamera from "../components/HeroCamera";
 import Button from "../components/Button";
 
@@ -25,7 +25,7 @@ const Hero = () => {
         <p className="sm:text-3xl text-2xl font-medium text-white text-center font-generalsans">
           Hi , I am Mufeed <span className="waving-hand">👋🏻</span>
           <p className="hero_tag text-gray_gradient">
-            Building Products & Brands
+     Crafting Code, Design & Ideas
           </p>
         </p>
       </div>
